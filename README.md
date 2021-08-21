@@ -1,4 +1,4 @@
-# Project 1 - *Simple Todo*
+# Pre-Work - *Simple Todo*
 
 **Simple Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-Some challenges I faced while building this app were the differences between the old and new versions of Android Studio. While following through the tutorials, I realized that some of the steps were slightly different from the version that I was using. Luckily, through some research on Google and reading comments from the Youtube videos, I was able to overcome my blockers and create the app!
+Some challenges I faced while building this app were the differences between the old and new versions of Android Studio. While following through the tutorials, I realized that some of the steps were slightly different from the version that I was using. Also, while I was submitting this app, I had some trouble with connecting Android Studio to GitHub and using GitHub to submit my application.  Luckily, through some research on Google, reading comments from the Youtube videos and the GitHub documentation, I was able to overcome my blockers, create the app, and submit it!
 
 ## License
 
