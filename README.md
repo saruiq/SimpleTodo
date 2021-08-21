@@ -4,7 +4,7 @@
 
 Submitted by: **Sarah Iqbal**
 
-Time spent: **19** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
